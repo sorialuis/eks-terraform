@@ -1,0 +1,7 @@
+locals {
+    region = "region"
+    profile = "you-profile"
+    cluster_name = "you-cluster"
+    instance_type = "t3a.micro"
+    root_volume_size = "20"
+}
